@@ -27,17 +27,14 @@ Full guides: **[krate.github.io/docs](https://krate.github.io/docs/)**
 
 ## Repositories
 
-| Repository | What it is |
-|---|---|
-| [**releases**](https://github.com/krate-client/releases) | Official `krate` `.deb` packages and release manifests |
-| [**console**](https://github.com/krate-client/console) | `zen` CLI and `zenfw` runtime |
-| [**setup**](https://github.com/krate-client/setup) | First-install wizard |
-| [**web**](https://github.com/krate-client/web) | HarmonyUI — the web dashboard |
-| [**official-apps**](https://github.com/krate-client/official-apps) | Official application catalog (public, read-only mirror) |
-| [**official-apps-unencrypted**](https://github.com/krate-client/official-apps-unencrypted) | Source for official apps — where changes are reviewed |
-| [**community-apps**](https://github.com/krate-client/community-apps) | Community-contributed applications |
-| [**plugins-store**](https://github.com/krate-client/plugins-store) | ruTorrent plugins and themes bundled in the package |
-| [**docs**](https://github.com/krate-client/docs) | User-facing documentation sources |
+| Repository                                                           | What it is                                              |
+| -------------------------------------------------------------------- | ------------------------------------------------------- |
+| [**releases**](https://github.com/krate-client/releases)             | Official `krate` `.deb` packages and release manifests  |
+| [**web**](https://github.com/krate-client/web)                       | HarmonyUI — the web dashboard                           |
+| [**official-apps**](https://github.com/krate-client/official-apps)   | Official application catalog (public, read-only mirror) |
+| [**community-apps**](https://github.com/krate-client/community-apps) | Community-contributed applications                      |
+| [**plugins-store**](https://github.com/krate-client/plugins-store)   | ruTorrent plugins and themes bundled in the package     |
+| [**docs**](https://github.com/krate-client/docs)                     | User-facing documentation sources                       |
 
 ## How apps work
 
@@ -59,6 +56,4 @@ your installation.
 
 ---
 
-*This organization hosts the open-source client side of KRATE. Commerce and public
-API surfaces live under the separate [krate-shop](https://github.com/krate-shop)
-organization.*
+*This organization hosts the open-source client side of KRATE.*
